@@ -30,12 +30,6 @@ const Post: React.FunctionComponent = () => {
           title='John Doe'
           subheader='September 14, 2022'
         />
-        <CardMedia
-          component='img'
-          height='20%'
-          image='https://images.pexels.com/photos/11431628/pexels-photo-11431628.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500'
-          alt='Paella dish'
-        />
         <CardContent>
           <Typography variant='body2' color='text.secondary'>
             This impressive paella is a perfect party dish and a fun meal to
