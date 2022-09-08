@@ -1,8 +1,6 @@
-## React-Mui
+## React, Mui, Typescript Portfolio by Nemanja @2019
 
-This project is built with react and typescript under the hood.
-
-The structure is from Material UI
+This project is built with react and typescript using Material UI.
 
 ## Installation
 
